@@ -1,2 +1,6 @@
 # approve
-approves the dm of an user
+
+Hey there it's a bot don't fret!!
+
+
+
